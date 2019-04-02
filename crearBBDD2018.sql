@@ -7,7 +7,7 @@ nombre	varchar2(45),
 puesto	varchar2(12),
 num_sup	number(4),
 fecha_alta	date,
-salario	number(7,2),
+salario	number(7,2), --Hay que aumentar los salarios de los empleados
 comision	number(7,2),
 num_dep	NUMBER(2))
 /
