@@ -1,4 +1,4 @@
-select *--holaaa
+select *
 from tprovincia
 where exists(
 			select *
