@@ -10,7 +10,7 @@ fecha_alta	date,
 salario	number(7,2), --Hay que aumentar los salarios de los empleados
 comision	number(7,2),
 num_dep	NUMBER(2))
-/
+;
 
 insert into empleado values
 (1001, 'ANAYA CARMONA ENRIQUE SEBASTIAN', 'PROGRAMADOR', 1003, TO_DATE('16/09/2001','DD/MM/YYYY'), 900, 0, 4);
